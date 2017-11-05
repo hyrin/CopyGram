@@ -6,12 +6,11 @@
 
 # CopyGram
 
-`CopyGram` представляет собой копию Instagram на языке Ruby. 
+`CopyGram` is a copy of Instagram in Ruby.
 
 ## Purpose
 
-Целью проекта `CopyGram` является изучение стека технологий разработки на языке руби через практику
-
+The goal of the project `CopyGram` is to study the development in the ruby language through practice.
 
 ## License
 
