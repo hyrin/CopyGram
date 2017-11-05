@@ -1,24 +1,18 @@
-# README
+<p align="center">
+    <a href="#instacopy">CopyGram</a> • 
+    <a href="#purpose">Purpose</a> • 
+    <a href="#icense">License</a>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# CopyGram
 
-Things you may want to cover:
+`CopyGram` представляет собой копию Instagram на языке Ruby. 
 
-* Ruby version
+## Purpose
 
-* System dependencies
+Целью проекта `CopyGram` является изучение стека технологий разработки на языке руби через практику
 
-* Configuration
 
-* Database creation
+## License
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+MIT
